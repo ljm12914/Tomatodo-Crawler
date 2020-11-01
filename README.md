@@ -1,2 +1,4 @@
-# tomatodo-crawler
-A web crawler to get tomatodo's posters.
+# Tomatodo-Crawler
+用于爬取番茄ToDo海报的爬虫。
+**仅用于学习研究用途！！！**
+**使用本程序产生的一切后果自负！**
